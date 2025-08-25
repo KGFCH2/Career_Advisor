@@ -2,7 +2,7 @@
 
 A ready-to-run website built with **HTML, CSS, JS** on the frontend and **Python (Flask)** on the backend.
 
-## ✨ Features
+## <img src="https://i.ibb.co/21yW2Rbr/shooting-star-unscreen.gif" width="50"> Features
 - Cool **glassmorphism login** with subtle animations 🪟✨  
 - **Career advisor chat** backed by a rules engine and dataset 💬🤖  
 - **500+ skills & careers** with bullets, paths, and learning links 📚🔗  
