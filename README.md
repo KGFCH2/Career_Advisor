@@ -11,7 +11,7 @@ A ready-to-run website built with **HTML, CSS, JS** on the frontend and **Python
 - **Hover to flip** skill/career cards to reveal bullets and links 🔄📇  
 - Home page includes a **career journey SVG** illustration (right side) 🗺️🚀  
 
-## 🛠 Tech Stack
+## <img src="https://i.ibb.co/zhfJJvRJ/technology-unscreen.gif" width="50"> Tech Stack
 
 | Layer       | Technology Used |
 |-------------|-----------------|
@@ -20,7 +20,7 @@ A ready-to-run website built with **HTML, CSS, JS** on the frontend and **Python
 | **Data**     | ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) |
 
 
-## ▶️ Run locally (VS Code)
+## <img src="https://i.ibb.co/qYCVCxxK/video-unscreen.gif" width="50"> Run locally (VS Code)
 1. Ensure Python 3.10+ is installed. 🐍✅  
 2. Create a virtual environment (recommended):  
    ```bash
@@ -38,7 +38,7 @@ A ready-to-run website built with **HTML, CSS, JS** on the frontend and **Python
    ```
 5. Open http://localhost:5000 in your browser.
 
-## Project structure
+## <img src="https://i.ibb.co/DfQcFbqd/add-folder-unscreen.gif" width="50"> Project structure
 ```
 career_advisor_site/
   app.py
@@ -58,7 +58,7 @@ career_advisor_site/
     explore.html
 ```
 
-## 📝 Notes
+## <img src="https://i.ibb.co/nNRCNCHc/notebook-unscreen.gif" width="50"> Notes
 - The chat uses deterministic rules + search to return **exact data** where possible.
 - Replace/add items in `data/skills_careers.json` to customize content.
 - You can deploy to any Python-friendly host (Render, Railway, etc.).
