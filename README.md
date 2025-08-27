@@ -1,4 +1,4 @@
-# 🧑🏼‍💻🔮 PersonaPath – Personalized Career & Skills Advisor 🔮🧑🏼‍💻
+# <img src="https://i.ibb.co/BVXgJLNT/vlogger-unscreen.gif" width="50"> PersonaPath – Personalized Career & Skills Advisor <img src="https://i.ibb.co/BVXgJLNT/vlogger-unscreen.gif" width="50">
 
 A ready-to-run website built with **HTML, CSS, JS** on the frontend and **Python (Flask)** on the backend.
 
